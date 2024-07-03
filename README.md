@@ -7,13 +7,8 @@ for practical demonstration i had watched greatlearning
 
 
 
-project 2 is the power bi is hr dashboard analysis with hr data analysis 
 
-
-
-
-
-2.HUMAN RESOURCE ANALYTICS 
+2. PROJECT  HUMAN RESOURCE ANALYTICS 
 In this i have created dashboard for male vs female headcount
 top workers and salary getters 
 female vs male top workers 
