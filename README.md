@@ -1,5 +1,5 @@
 # versatilevenkipowerbi
-PROJECT 1  BASIC CRICKET ANALYTICS
+1.PORJECT  BASIC CRICKET ANALYTICS
 In this project i have used power bi to create dashboard 
 i have used power bi dax to create some measure for the overall runs by the batsman
 And i have used some more metrics to the project for efficient utilization of data.
