@@ -1,11 +1,8 @@
 # versatilevenkipowerbi
-PROJECT 3 MOVIE RECOMMENDATION SYSTEM PYTHON 
-
-hello all the above project which i had uploaded is movie recommendation system 
-there i had did basic analysis of pandas which is eda
-df commands and plot of various bars for analyzing 
-and comparing between revenue and movies watched by all people 
-for practical demonstration i had watched greatlearning 
+PROJECT 1  BASIC CRICKET ANALYTICS
+In this project i have used power bi to create dashboard 
+i have used power bi dax to create some measure for the overall runs by the batsman
+And i have used some more metrics to the project for efficient utilization of data.
 
 
 
