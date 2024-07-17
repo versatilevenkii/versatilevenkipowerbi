@@ -12,3 +12,9 @@ In this i have created dashboard for male vs female headcount
 top workers and salary getters 
 female vs male top workers 
 high salary people .
+
+
+
+3.PROJECT HUMAN RESOURCE ANALYTICS DASHBOARD
+
+In this project i have created an dashboard of human resource job which is to see the working vs non working employees based on age attriation rate .
